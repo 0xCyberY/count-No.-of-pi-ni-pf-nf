@@ -1,3 +1,4 @@
+/*A program to count no of positive integers negative integers positive fraction and negative fraction. */
 %{
 #include<stdio.h>
 int pi=0,ni=0,pf=0,nf=0;
